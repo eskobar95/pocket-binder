@@ -1,6 +1,6 @@
-# Tiny Todo
+# Unblock
 
-A simple todo list for your phone. Install it to your home screen; it works offline. No account, no server.
+A todo list for the things only you can do: the approvals, decisions and steps that others (people or AI agents) are waiting on. Sorted by what your waiting costs. A PWA for your phone; works offline, no account, no server.
 
 Your todos are stored on your device (localStorage). It is built by Optio's engineering loop as a live demo: product writes the spec, engineering cuts it into tasks, and agents plan, build and review each one before a person says yes.
 

@@ -1,4 +1,4 @@
-# Tiny Todo's repo contract, read by Optio.
+# Unblock's repo contract, read by Optio.
 # The trust root: paths no agent writes. A change here needs the workspace owner's yes.
 [trust_root]
 paths = ["optio.toml", ".github/workflows/"]
